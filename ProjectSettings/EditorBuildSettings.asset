@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/tela_inicial2d.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/cena lab.unity
+    guid: 8aa65f02e8bddcc4f9e3927b7ccecb41
+  - enabled: 1
+    path: Assets/cena dentro da casa.unity
+    guid: 5e1c18288cd98da4d83446854c4c8b07
+  - enabled: 0
+    path: Assets/Scenes/labrinto.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
